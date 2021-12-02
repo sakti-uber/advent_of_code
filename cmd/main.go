@@ -1,8 +1,8 @@
 package main
 
 import (
-	"../day1"
-	"../day2"
+	"advent_of_code/day1"
+	"advent_of_code/day2"
 )
 
 func main() {
